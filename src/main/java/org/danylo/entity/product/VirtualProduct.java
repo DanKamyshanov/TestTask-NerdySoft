@@ -1,7 +1,5 @@
 package org.danylo.entity.product;
 
-import org.danylo.entity.product.Product;
-
 import java.time.LocalDate;
 
 public class VirtualProduct extends Product {

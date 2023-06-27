@@ -1,7 +1,5 @@
 package org.danylo.entity.product;
 
-import org.danylo.entity.product.Product;
-
 public class RealProduct extends Product {
     private int size;
     private int weight;
